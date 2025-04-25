@@ -17,6 +17,7 @@ Many website visitors drop off at forms or rigid chatbots. A WhatsApp integratio
 - Converts casual interest into booked appointments  
 
 ---
+![Structure_Diagram](docs/Untitled.jpg)
 
 ### 🎬 **How It Works**  
 1. **User Entry**  
@@ -50,6 +51,9 @@ Act as the friendly, helpful first point of contact on WhatsApp. Your job:
 | 🧾 **Generate Instant Quote** | Requires property type (Apartment or House) and square footage. Returns an accurate cleaning quote. |
 | 📝 **Capture Lead Information** | Collects name, phone, and email via Airtable when a user expresses interest. |
 
+[**Knowledge Base**](docs/Conor'sCleaning-KnowledgeBaseDocument.docx.pdf)
+
+[**Agent Promt**](docs/agent-prompt.txt)
 
 Perfect — thanks for sharing the two API endpoints! Here’s how you can integrate them into your codebase. I’ll also show where to plug them into the repo structure we just outlined.
 
@@ -79,7 +83,12 @@ Perfect — thanks for sharing the two API endpoints! Here’s how you can integ
 ---
 
 ### 💬 **Start Chatting**  
+
 [**Agent Chat Link →**](https://agentivehub.com/chat/58f81ff5-49d2-4459-83b5-9cd565c27ef6)
+
+![whatsapp](docs/whatsapp.jpg)
+
+
 
 ---
 
