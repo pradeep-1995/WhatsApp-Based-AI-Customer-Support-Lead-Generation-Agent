@@ -34,6 +34,8 @@ Many website visitors drop off at forms or rigid chatbots. A WhatsApp integratio
 
 ---
 
+![Structure_Diagram](docs/ChatGPT.png)
+
 ### 🤖 **Agent Role: “Conor’s Cleaning WhatsApp Assistant”**  
 Act as the friendly, helpful first point of contact on WhatsApp. Your job:  
 - Share clear info about cleaning services  
